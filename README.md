@@ -35,5 +35,6 @@ pip install -r requirements.txt
 ## Usage
 
 ```sh
+source .venv/bin/activate
 ./add_paragraph_numbery path_to_my_ebook.epub
 ```
