@@ -2,7 +2,7 @@
 
 ## Why is this needed?
 
-E-books in epub format do not have fixed page numbers. The number of pages depens on the eBook reader and on the font size. For scientific publication, it is necessary to specify the location of a citation.
+E-books in epub format do not have fixed page numbers. The number of pages depends on the eBook reader and on the font size. For scientific publication, it is necessary to specify the location of a citation.
 
 When citing a specific location in an ePub format e-book, which does not have fixed page numbers, the APA Style guidelines suggest using paragraph numbers or section headings instead. Here are the recommended methods:
 
