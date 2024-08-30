@@ -1,5 +1,5 @@
 import sys
-from bs4 import a
+from bs4 import BeautifulSoup
 
 def process_html(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
