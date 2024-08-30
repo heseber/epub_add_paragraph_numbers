@@ -18,7 +18,8 @@ Methods 2 and 3 are much more suitable, as it is not too difficult for the reade
 
 This program adds a paragraph number to each paragraph, whereby the numbering starts again with 1 after each heading, i.e. at the beginning of each chapter or section. The program replaces the epub file "in-place".
 
-> ::warning Copy-protected e-books cannot be edited!
+> [!WARNING]
+> Copy-protected e-books cannot be edited!
 
 ## Installation
 
